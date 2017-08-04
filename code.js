@@ -18,6 +18,7 @@
  *  - http://www.elated.com/articles/drag-and-drop-with-jquery-your-essential-guide/
  *  - http://jqueryui.com/draggable/
  *  - http://api.jqueryui.com/draggable/
+ *  - http://touchpunch.furf.com/
  */
 
 var cards = [];
